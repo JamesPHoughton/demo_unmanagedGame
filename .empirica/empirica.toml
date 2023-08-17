@@ -1,0 +1,9 @@
+name = "demo_unmanagedGame"
+
+[tajriba.auth]
+srtoken = "smhqTGZxwzRlGRBo"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "urbrwZcu"
